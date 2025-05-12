@@ -45,7 +45,7 @@ Improved communication skills for autistic children using accessible design, par
 ### 🧮 Crowd Management in Makkah
 **Python | Machine Learning**  
 Developed an AI-based system to predict crowd peaks and support real-time decision-making during Hajj seasons.
-
+https://github.com/3Maali/MCP-docker
 ---
 
 ## 🎓 Education
